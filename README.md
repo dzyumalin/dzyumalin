@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi everyone 👋
+## Wellcome to my GitHub 😎
+
+At the moment, I am studying at the **QA.GURU** school. I am studying testing automation in **Java**, including:
+* 🏎️ Selenide
+* 🦾  JUnit
+* 📔 Allure
+* 🔁 Jenkins
+
+## Contacts
+* ☎️ telegram - @dmitryhli
+* 📫  e-mail - zyumalin@bk.ru
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzyumalin&show_icons=true&&theme=highcontrast)](https://github.com/dzyumalin)
 
 <!--
 **dzyumalin/dzyumalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
