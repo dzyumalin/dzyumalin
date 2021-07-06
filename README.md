@@ -11,7 +11,7 @@ At the moment, I am studying at the **QA.GURU** school. I am studying testing au
 * ☎️ telegram - @dmitryhli
 * 📫  e-mail - zyumalin@bk.ru
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzyumalin&show_icons=true&](https://github.com/dzyumalin)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzyumalin&show_icons=true](https://github.com/dzyumalin)
 
 <!--
 **dzyumalin/dzyumalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
