@@ -7,22 +7,20 @@ I'm Dmitriy, QA engineer
 <table>
 <tbody>
 <tr>
-<td align="center"><img src="images/JAVA.svg" width="40" height="40"><br>Java</td>
-<td align="center"><img src="images/Gradle.svg" width="40" height="40"><br>Gradle</td>
-<td align="center"><img src="images/Browserstack.svg" width="40" height="40"><br>Browserstack</td>
-<td align="center"><img src="images/Junit5.svg" width="40" height="40"><br>JUnit5</td>
-<td align="center"><img src="images/Selenide.svg" width="40" height="40"><br>Selenide</td>
-<td align="center"><img src="images/Appium.svg" width="40" height="40"><br>Appium</td>
-<td align="center"><img src="images/Selenoid.svg" width="40" height="40"><br>Selenoid</td>
+<td align="center"><img src="https://github.com/dzyumalin/raiffeisen-autotests/raw/main/images/JAVA.svg" width="40" height="40"><br>Java</td>
+<td align="center"><img src="https://github.com/dzyumalin/raiffeisen-autotests/raw/main/images/Gradle.svg" width="40" height="40"><br>Gradle</td>
+<td align="center"><img src="https://github.com/dzyumalin/raiffeisen-autotests/raw/main/images/Junit5.svg" width="40" height="40"><br>JUnit5</td>
+<td align="center"><img src="https://github.com/dzyumalin/raiffeisen-autotests/raw/main/images/Selenide.svg" width="40" height="40"><br>Selenide</td>
+<td align="center"><img src="https://github.com/dzyumalin/raiffeisen-autotests/raw/main/images/Appium.svg" width="40" height="40"><br>Appium</td>
+<td align="center"><img src="https://github.com/dzyumalin/raiffeisen-autotests/raw/main/images/Selenoid.svg" width="40" height="40"><br>Selenoid</td>
 </tr>
 <tr>
-<td align="center"><img src="images/IDEA.svg" width="40" height="40"><br>IDEA</td>
-<td align="center"><img src="images/GitHub.svg" width="40" height="40"><br>Github</td>
-<td align="center"><img src="images/Jenkins.svg" width="40" height="40"><br>Jenkins</td>
-<td align="center"><img src="images/Allure Report.svg" width="40" height="40"><br>Allure Report</td>
-<td align="center"><img src="images/Allure TestOps.svg" width="40" height="40"><br>Allure TestOps</td>
-<td align="center"><img src="images/Jira-icon.svg" width="40" height="40"><br>Jira</td>
-<td align="center"><img src="images/Telegram.svg" width="40" height="40"><br>Telegram</td>
+<td align="center"><img src="https://github.com/dzyumalin/raiffeisen-autotests/raw/main/images/IDEA.svg" width="40" height="40"><br>IDEA</td>
+<td align="center"><img src="https://github.com/dzyumalin/raiffeisen-autotests/raw/main/images/GitHub.svg" width="40" height="40"><br>Github</td>
+<td align="center"><img src="https://github.com/dzyumalin/raiffeisen-autotests/raw/main/images/Jenkins.svg" width="40" height="40"><br>Jenkins</td>
+<td align="center"><img src="https://github.com/dzyumalin/raiffeisen-autotests/raw/main/images/Allure%20Report.svg" width="40" height="40"><br>Allure Report</td>
+<td align="center"><img src="https://github.com/dzyumalin/raiffeisen-autotests/raw/main/images/Allure%20TestOps.svg" width="40" height="40"><br>Allure TestOps</td>
+<td align="center"><img src="https://github.com/dzyumalin/raiffeisen-autotests/raw/main/images/Jira-icon.svg" width="40" height="40"><br>Jira</td>
 </tr>
 </tbody>
 </table>
